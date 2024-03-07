@@ -1,5 +1,8 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+python-dotenv
+faiss-cpu
+load_dotenv
